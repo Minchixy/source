@@ -116,5 +116,5 @@
 | !source | — | returns a link to the basicBot repository on GitHub. |
 | !theme | — | links to the room's theme (if set in the settings). |
 | !thor | — | users get moved to position 1 in the waitlist if they're worthy of Thor's hammer. |
-| !website | — | links to the room's website (if set in the settings). |
-| !youtube | — | links to the room's youtube page (if set in the settings). |
+| !website | — | https://goexanimo.lv/news |
+| !youtube | — | https://www.youtube.com/channel/UCBGYfCF8Yvm0spIA20ZOcTw |
